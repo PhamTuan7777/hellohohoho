@@ -1,0 +1,24 @@
+CMakeFiles\main.dir\D_\vscodecc++\Pico\picoproject\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj: \
+ D:\vscodecc++\Pico\picoproject\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\c++\10.3.1\cstdlib \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\c++\10.3.1\arm-none-eabi\thumb\v6-m\nofp\bits\c++config.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\c++\10.3.1\arm-none-eabi\thumb\v6-m\nofp\bits\os_defines.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\c++\10.3.1\arm-none-eabi\thumb\v6-m\nofp\bits\cpu_defines.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\stdlib.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\machine\ieeefp.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\_ansi.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\newlib.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\_newlib_version.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\sys\config.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\sys\features.h \
+ d:\vscode~1\gnu_arm\102021~1.10\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\sys\reent.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\_ansi.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\sys\_types.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\machine\_types.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\machine\_default_types.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\sys\lock.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\sys\cdefs.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\machine\stdlib.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\alloca.h \
+ d:\vscode~1\gnu_arm\102021~1.10\arm-none-eabi\include\c++\10.3.1\bits\std_abs.h

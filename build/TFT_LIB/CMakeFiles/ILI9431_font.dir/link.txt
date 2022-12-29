@@ -1,0 +1,2 @@
+D:\VSCODE~1\GNU_ARM\102021~1.10\bin\ARM-NO~2.EXE qc libILI9431_font.a CMakeFiles/ILI9431_font.dir/ILI9431_font.c.obj
+D:\VSCODE~1\GNU_ARM\102021~1.10\bin\AR17F9~1.EXE libILI9431_font.a

@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "spi.h": "c",
+        "ili9431.h": "c",
+        "ili9431_gfx.h": "c",
+        "ili9431_font.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
